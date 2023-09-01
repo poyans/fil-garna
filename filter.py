@@ -312,13 +312,12 @@ rm -rf filter-rubika
 rm -rmrf filter.py
 
 
-git clone https://github.com/poyans/poyan-teror
-      
+ git clone https://github.com/poyans/fil-garna      
 
 chmod +x Filter.py
 
 
-cd poyan-teror
+cd fil-garna
 
 python filter.py
 
