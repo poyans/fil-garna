@@ -22,3 +22,9 @@
 
 #نصب اسکریپت:
 
+# 1 : git clone https://github.com/poyans/fil-garna
+# 2 : cd fil-garna
+# 3: ls
+# 4 : python filter.py
+
+یا حق.
