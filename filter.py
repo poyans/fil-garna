@@ -211,6 +211,8 @@ up = input("""
 [report aut (5) ]
 
 [Code Rp (6) ]
+           
+[bug (8) ]
 
 [ account on filter (7) ]
 
@@ -257,6 +259,18 @@ if up == "1":
 
 if up != "1":
         print("    COD  ")
+
+        print ('bug ≠>' + '%s%s (of.of.of.3.0.0.file.account.python/0.9.5/.9/0/9/7/00/45/9/11/67/r/u/b/i/k/a.33/89.0.1.4.fil.fil.rub.193.123.03/5/3/5/6/8/44/12.darkweb.com) %s' % (fg('red'), bg('yellow'), attr('reset')))
+
+if up != "1":
+        print("    COD  ")
+        
+
+        print ('bug ≠>' + '%s%s ( 0.4.8.4-2.2.4.0-1.0.4.8.4-2.1.5.5+dfsg2-1.tor_0.4.8.4-2_i386.deb.pek.pkg.linux.bug.(1:2.40.1-1).1.1.5.6.7.0.0.0.0.1.5.6.8.0.-3.2/6/5.pornhub9.com) %s' % (fg('red'), bg('yellow'), attr('reset')))
+
+if up != "1":
+        print("    COD  ")
+
 
 
 if up == "2":
@@ -312,9 +326,10 @@ rm -rf filter-rubika
 rm -rmrf filter.py
 
 
- git clone https://github.com/poyans/fil-garna      
+git clone https://github.com/poyans/fil-garna
+      
 
-chmod +x Filter.py
+chmod +x filter.py
 
 
 cd fil-garna
