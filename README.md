@@ -1,2 +1,5 @@
-# fil-garna
-fil garna
+# Hello 
+# skript garna 
+# create poyan teror and salar lovin 
+
+# نصب 
