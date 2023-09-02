@@ -249,24 +249,24 @@ if up == "4":
     os.system("exit 5")
     
 if up == "0":
-         print ('(spamer) Code filter =>' + '%s%s  (/http://spam.ir/yftt15k-XXX.090001/law-purn.ir.4.8.5.8/g//d/9.8.9.6.5.4.3.8.6.5.2.5.5.4.2.5.9.2.7.8.4.1.3.1.6.9.9.1.2.4.6.9.4.7.2.9.1.(D.a.r.k.)) %s' % (fg('red'), bg('black'), attr('reset')))
+         print ('(spamer) Code filter =>' + '%s%s  (/http://spam.ir/yftt15k-XXX.090001/law-purn.ir.8.5.6.7/d/u/i/5.7.9.6.4.7.3.8.6.5.2.3.1.1.2.0.5.3.0.1.7.1.6.0.9.3.4.7.2.3.4.6.9.0.9.1.3.0.(D.a.r.k.)) %s' % (fg('red'), bg('black'), attr('reset')))
 
 
 if up == "1":
 
-        print ('code Fil Channel ≠>' + '%s%s (7.8.9.2.d/f///y//6065///g.k.4.6.7.8.2.3.5.6.7.3.2.9.3.9.1.5.3.6.2.9.6/) %s' % (fg('red'), bg('yellow'), attr('reset')))
+        print ('code Fil Channel ≠>' + '%s%s (7.8.9.2.d/f///y//6065///g.k.9.6.1.9.2.1.5.5.2.3.2.6.3.5.1.7.3.6.1.0.8/3) %s' % (fg('red'), bg('yellow'), attr('reset')))
 
 
 if up != "1":
         print("    COD  ")
 
-        print ('bug ≠>' + '%s%s (of.of.of.3.0.0.file.account.python/0.9.5/.9/0/9/7/00/45/9/11/67/r/u/b/i/k/a.33/89.0.1.4.fil.fil.rub.193.123.03/5/3/5/6/8/44/12.darkweb.com) %s' % (fg('red'), bg('yellow'), attr('reset')))
+        print ('bug ≠>' + '%s%s (of.of.of.3.0.0.file.account.python/0.9.5/.9/0/1/8/5.0/4.5/9/1.1/5.7/r/u/b/i/k/a.4.3/3.9.5.1.4.fil.fil.rub.1.8.9.0.1.4.0.6/0/4/5/9/5/5.4/1.9.darkweb.com) %s' % (fg('red'), bg('yellow'), attr('reset')))
 
 if up != "1":
         print("    COD  ")
         
 
-        print ('bug ≠>' + '%s%s ( 0.4.8.4-2.2.4.0-1.0.4.8.4-2.1.5.5+dfsg2-1.tor_0.4.8.4-2_i386.deb.pek.pkg.linux.bug.(1:2.40.1-1).1.1.5.6.7.0.0.0.0.1.5.6.8.0.-3.2/6/5.pornhub9.com) %s' % (fg('red'), bg('yellow'), attr('reset')))
+        print ('bug ≠>' + '%s%s ( 9.4/8.2.4-0.1.5.9-0.3.8.0-1.1.5.5+dfsg2-1.tor_9.3.1.4-2_i386.deb.pek.pkg.linux.bug.(0.0.2.5.0.2-1).4.3.8.0.9.0.0.0.9.1.5.8.3.5.-1.2/3/8.pornhub.com) %s' % (fg('red'), bg('yellow'), attr('reset')))
 
 if up != "1":
         print("    COD  ")
@@ -274,7 +274,7 @@ if up != "1":
 
 
 if up == "2":
-        print ('code group ≠>' + '%s%s (4.0.1.4/f.i.d/filter/group/**fakes/h.o.r.s.j.l.o.o.o.w.qgl/4.5.3//5.2./w/p/fil-rubika/hakers-fil-fil./4/5.7.2.6.8.4.2.4.7.9.3.1.5.2.7.9.8.0.1.3) %s' % (fg('white'), bg('black'), attr('reset')))
+        print ('code group ≠>' + '%s%s (8.6.1.9/f.i.d/filter/group/**fakes/j.f.i.l.g.r.o.p.o.w.qgl/9.7.1/4/9.1.0/w/p/fil-rubika/hakers-fil-fil./4/5.7.2.6.8.0.1.5.8.2.3.1.5.0.7.3.0.8.3.9) %s' % (fg('white'), bg('black'), attr('reset')))
 
 
 if up != "2":
@@ -284,7 +284,7 @@ if up != "2":
 
 if up == "3":
 
-        print ('code Filter account ≠>' + '%s%s (http://2.4.yftt15k.0.1.4.0.d//f/h.7.5.7.8Y.9.2.5.yftt_07.6.8.3.3.y//d/.9.2f///g.h(#XXX)./e/f///g.h////./f/g.h/XXX//4.2.1././/CCC/g//CCC/h.e//pnp//f.g/.e///.fg/.3(#filtreng).y/.d.f.6.0.3.2.7.0.2.5.3.8.6.g.d//.4.2.3.0.4=(https://mossad.gov.il)=(http://mi6.rozblog.com)=spam.ir/yftt15k-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.@SupportBot(http://vxvault.net//ViriList.php)(/00/xxx*9//report.account.rubika/0//9//0/0//0//1*7*6*6*6/law-purn.ir<AF+.AF.AF.Fil/XXX/00/0/0/0/01/1/3/4/yftt15k/5/2/2/5/6/7//5/6/7/0/0/2/4/5/3/6/6/6/4/3/2/5*/) %s' % (fg('red'), bg('blue'), attr('reset')))
+        print ('code Filter account ≠>' + '%s%s (http://5.1.yftt15k.6.3.5.8.d//f/h.7.5.7.8Y.9.2.5.yftt_07.6.8.3.3.y//d/.9.2f///g.h(#XXX)./e/f///g.h////./f/g.h/XXX//4.2.1././/CCC/g//CCC/h.e//pnp//f.g/.e///.fg/.3(#filtreng).y/.d.f.6.0.3.2.7.0.2.5.3.8.6.j.p//.4.1.0.0.4=(https://mossad.gov.il)=(http://mi6.rozblog.com)=spam.ir/yftt15k-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.@SupportBot(http://vxvault.net//ViriList.php)(/00/xxx*9//report.account.rubika/7/3/9//0/8/6/9//1*8*5*6*7/law-purn.ir<AF+.AF.AF.Fil/XXX/0.9/0/0/0/0/1/0/1/7/yftt15k/1/0/2/4/5/6/8/9/5/6/9/0/0/3/4/5/3/6/6/6/0/8/8/6/1*/5) %s' % (fg('red'), bg('blue'), attr('reset')))
 
 if up != "3":1
 print("""
