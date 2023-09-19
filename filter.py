@@ -249,24 +249,24 @@ if up == "4":
     os.system("exit 5")
     
 if up == "0":
-         print ('(spamer) Code filter =>' + '%s%s  (/http://spam.ir/yftt15k-XXX.090001/law-purn.ir.8.5.6.7/d/u/i/5.7.9.6.4.7.3.8.6.5.2.3.1.1.4.0.5.3.0.1.6.1.6.0.9.3.3.7.2.3.4.8.9.1.9.1.9.0.(D.a.r.k.)) %s' % (fg('red'), bg('black'), attr('reset')))
+         print ('(spamer) Code filter =>' + '%s%s  (/http://spam.ir/yftt15k-XXX.09031/law-purn.ir.2.9.6.7.5/g/u/i/8.7.9.1.4.7.2.8.6.5.2.8.1.0.4.0.5.3.0.1.6.1.6.0.9.3.3.7.2.3.4.8.9.1.6.1.5.1.(D.a.r.k.)) %s' % (fg('red'), bg('black'), attr('reset')))
 
 
 if up == "1":
 
-        print ('code Fil Channel ≠>' + '%s%s (7.8.9.2.d/f///y//6065///g.k.9.6.1.9.2.1.5.5.2.3.2.6.3.5.1.7.3.6.1.0.8/3) %s' % (fg('red'), bg('yellow'), attr('reset')))
+        print ('code Fil Channel ≠>' + '%s%s (8.9.2.1.d/f///y//6.0.5///g.k.8.5.1.3.2.1.5.5.2.3.2.6.3.5.1.7.3.2.8.5.7/1) %s' % (fg('red'), bg('yellow'), attr('reset')))
 
 
 if up != "1":
         print("    COD  ")
 
-        print ('bug ≠>' + '%s%s (of.of.of.3.0.0.file.account.python/1.9.5/.7/1/1/8/5.0/4.5/9/1.1/5.7/r/u/b/i/k/a.4.3/3.9.5.1.4.fil.fil.rub.1.8.9.0.1.4.0.6/0/1/5/8/3/5.4/3.5.darkweb.com) %s' % (fg('red'), bg('yellow'), attr('reset')))
+        print ('bug ≠>' + '%s%s (of.of.of.3.0.0.file.account.python/1.4.5/.6/3/8/5.4.0/4.5/9/1.1/5.7/r/u/b/i/k/a.4.3/3.9.5.1.4.fil.fil.rub.1.8.9.0.1.4.0.6/0/1/4/1/9/5.1/5.7.darkweb.com) %s' % (fg('red'), bg('yellow'), attr('reset')))
 
 if up != "1":
         print("    COD  ")
         
 
-        print ('bug ≠>' + '%s%s ( 1.3/8.5.4-0.1.5.9-0.3.8.0-1.1.5.5+dfsg2-1.tor_9.3.1.4-2_i386.deb.pek.pkg.linux.bug.(0.6.2.5.0.2-1).4.3.8.0.9.0.0.0.9.1.5.8.3.5.-8.2/1/5.pornhub.com) %s' % (fg('red'), bg('yellow'), attr('reset')))
+        print ('bug ≠>' + '%s%s ( 5.3/8.5.4-0.1.5.9-0.3.8.0-1.1.5.5+dfsg2-1.tor_9.3.1.4-2_i386.deb.pek.pkg.linux.bug.(0.6.2.5.0.2-1).4.3.8.0.9.0.0.0.9.1.5.8.3.5.-8.5/0/3.pornhub.com) %s' % (fg('red'), bg('yellow'), attr('reset')))
 
 if up != "1":
         print("    COD  ")
