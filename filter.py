@@ -260,13 +260,13 @@ if up == "1":
 if up != "1":
         print("    COD  ")
 
-        print ('bug ≠>' + '%s%s (of.of.of.3.0.0.file.account.python/1.4.5/.6/3/8/5.4.0/4.5/9/1.1/5.7/r/u/b/i/k/a.4.3/3.9.5.1.4.fil.fil.rub.1.8.9.0.1.4.0.6/0/1/4/1/9/5.1/5.7.darkweb.com) %s' % (fg('red'), bg('yellow'), attr('reset')))
+        print ('bug ≠>' + '%s%s (of.of.of.3.0.0.file.account.python/3.1.0/.7/1/8/5.4.0/4.5/0/1.1/9.7/f/u/b/i/k/a.1.3/8.9.5.1.4.fil.fil.rub.3.8.0.3.1.9.0.8/0/1/3/1/9/5.1/5.7.darkweb.com) %s' % (fg('red'), bg('yellow'), attr('reset')))
 
 if up != "1":
         print("    COD  ")
         
 
-        print ('bug ≠>' + '%s%s ( 7.6/7.2.3-0.1.5.9-0.3.8.0-0.1.4.3+dfsg2-1.tor_5.9.0.3-2_i386.deb.pek.pkg.linux.bug.(1.5.0.9.0.2-1).1.3.8.0.6.0.0.0.1.1.5.4.3.7.-8.5/0/3.pornhub.com) %s' % (fg('red'), bg('yellow'), attr('reset')))
+        print ('bug ≠>' + '%s%s ( ( 6.7/8.9.1-0.1.5.9-0.3.8.0-8.9.4.3(Yftt15k)Filter.Account./XXX=/Porn[ccc.com]/(¥ftt18k)#yftt_xxx(10.35.00)(1.5.0.9.0.8-9).1.3.0.2.5.8.9.3.1.1.5.4.3.6.-3.5/1/9.darkweb.com ) %s' % (fg('red'), bg('yellow'), attr('reset')))
 
 if up != "1":
         print("    COD  ")
@@ -284,7 +284,7 @@ if up != "2":
 
 if up == "3":
 
-        print ('code Filter account ≠>' + '%s%s (http://5.6.yftt15k.1.7.3.8.d//f/h.6.5.7.8Y.9.2.5.yftt_07.6.8.3.3.y//d/.8.1.f///g.h(#XXX)./e/f///g.h////./f/g.h/XXX//4.2.1././/CCC/g//CCC/h.e//pnp//f.g/.e///.fg/.3(#filtreng).y/.p.f.7.1.2.9.7.0.2.5.3.8.6.j.p//.4.1.0.0.4=(https://mossad.gov.il)=(http://mi6.rozblog.com)=spam.ir/yftt15k-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.@SupportBot(http://vxvault.net//ViriList.php)(/00/xxx*9//report.account.rubika/7/3/9//0/9/5/6//1*1*5*3*1/law-purn.ir<AF+.AF.AF.Fil/XXX/0.9/0/0/0/0/1/0/1/7/yftt15k/1/0/2/4/5/0/7/4/5/6/9/0/0/3/4/5/3/6/5/6/0/8/9/3/1*/9) %s' % (fg('red'), bg('blue'), attr('reset')))
+        print ('code Filter account ≠>' + '%s%s (http://8.6.yftt15k.3.9.5.0.p//j/l.9.5.7.8Y.8.3.5.yftt_07.6.8.3.3.y//d/.3.1.f///g.h(#XXX)./e/f///g.h////./f/g.h/XXX//4.2.1././/CCC/g//CCC/h.e//pnp//f.g/.e///.fg/.3(#filtreng).y/.p.f.5.1.2.3.9.0.6.5.3.8.6.j.p//.4.1.0.0.4=(https://mossad.gov.il)=(http://mi6.rozblog.com)=spam.ir/yftt15k-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.@SupportBot(http://vxvault.net//ViriList.php)(/00/xxx*9//report.account.rubika/9/3/6//0/9/5/7//1*1*5*3*1/law-purn.ir<AF+.AF.AF.Fil/XXX/0.9/0/0/0/0/1/0/1/7/yftt15k/1/0/2/4/5/0/7/4/5/6/9/0/0/3/4/5/3/6/5/8/6/9/3/9/5*/8) %s' % (fg('red'), bg('blue'), attr('reset')))
 
 if up != "3":1
 print("""
